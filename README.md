@@ -11,3 +11,7 @@ $ pip install -r requirements.txt
 ```
 azure-search-documents==11.5.2
 ```
+
+# 参考情報
+
+- https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/search/azure-search-documents/samples
