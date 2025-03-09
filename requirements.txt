@@ -1,0 +1,6 @@
+azure-search-documents==11.5.2
+azure-ai-documentintelligence==1.0.0
+azure-identity
+python-dotenv
+pandas
+tabulate
